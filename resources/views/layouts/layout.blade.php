@@ -152,7 +152,7 @@
 
 
     <!-- Body Section -->
-    <div class="pt-20 pb-20">
+    <div class="pt-20 pb-20 openpage">
         @yield('content')
     </div>
 
